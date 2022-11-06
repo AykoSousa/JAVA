@@ -1,0 +1,8 @@
+Todo programa JAVA é uma classe ...
+atributos
+Metodo
+
+
+
+fim metodo
+fim classe
